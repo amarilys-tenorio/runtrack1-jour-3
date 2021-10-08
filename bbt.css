@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+h4 {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+a {
+    font-family: 'Press Start 2P', cursive;
+    color:orange;
+}
+
+body {
+    background-color: black;
+}
+

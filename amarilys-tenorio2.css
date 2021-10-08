@@ -1,0 +1,19 @@
+h   {
+    font-family: 'DM Serif Display', serif;
+    font-size: 80px;
+    text-align: right;
+    }
+
+body {
+    background-color: rgba(87, 161, 87, 0.87);
+    text-align: right;
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+    }
+
+img {
+    filter: grayscale();
+    height: 450px;
+    border-radius: 40px;
+    float: left;
+    }

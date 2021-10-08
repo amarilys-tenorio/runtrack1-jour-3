@@ -1,0 +1,24 @@
+h  {
+    margin-left: 0px;
+    font-size: 75px;
+    font-family: 'Modak', cursive;
+    } 
+
+body { 
+    background-color: rosybrown;
+	line-height: 60px;
+	color: rgb(255, 255, 255); 
+    text-align:left;
+    margin-left: 50px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 20px;
+    }  
+
+img {
+    box-shadow: 12px 12px 2px 1px rgba(197, 60, 83, 0.336);
+    height: 200px;
+    border-radius: 100px;
+    float: left;
+    }
+
+
