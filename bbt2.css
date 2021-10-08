@@ -1,0 +1,36 @@
+body {
+    background-image: url("team.jpg");
+    background-size: 2000px ;
+}
+
+div {
+    display: none;
+}
+
+img {
+    display: none;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: rgb(57, 75, 21);
+    }
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    }
+
+h4 {
+    font-family: 'Unna', serif;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    }
+
+a {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color: slateblue;
+    }
